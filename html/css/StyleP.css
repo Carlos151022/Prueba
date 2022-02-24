@@ -1,0 +1,13 @@
+body{
+    margin: 0cm;
+}
+
+.cover {
+
+    height: 400px;
+    background-image: url("1Portada.jpg");
+    background-size: cover;
+    color: white;
+    background-position: center;
+
+}
